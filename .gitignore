@@ -1,0 +1,22 @@
+# Local client state, subscriptions and credentials
+/config.yaml
+/clash-verge.yaml
+/verge.yaml
+/profiles.yaml
+/dns_config.yaml
+/profiles/
+/.env
+/.env.*
+
+# Generated providers, logs and recovery material
+/ruleset/
+/logs/
+/backups/
+/rules_backups/
+/agentroute_backup_*/
+*.log
+
+# Editor and tooling state
+/.serena/
+/.vscode/
+/.idea/
